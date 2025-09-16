@@ -80,12 +80,12 @@ export default function HomePage() {
 
         {/* Quick Actions */}
         <section className="grid grid-cols-2 gap-3">
-          <button className="card text-center hover:shadow-lg transition-shadow duration-200">
+          <button className="card text-center hover:shadow-lg transition-shadow duration-300">
             <div className="text-2xl mb-2">🎯</div>
             <div className="font-medium">Take Challenge</div>
             <div className="text-sm text-gray-600">Earn credentials</div>
           </button>
-          <button className="card text-center hover:shadow-lg transition-shadow duration-200">
+          <button className="card text-center hover:shadow-lg transition-shadow duration-300">
             <div className="text-2xl mb-2">🚀</div>
             <div className="font-medium">Start Project</div>
             <div className="text-sm text-gray-600">Find collaborators</div>
