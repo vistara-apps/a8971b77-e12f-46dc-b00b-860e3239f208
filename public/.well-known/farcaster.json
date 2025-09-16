@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "SkillBloom",
+    "subtitle": "Built with Zara",
+    "description": "SkillBloom is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://a8971b77e12f46dcb00b860e3239f208-kdvx.vercel.app",
+    "splashImageUrl": "https://a8971b77e12f46dcb00b860e3239f208-kdvx.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://a8971b77e12f46dcb00b860e3239f208-kdvx.vercel.app/image.png",
+    "tagline": "SkillBloom",
+    "screenshotUrls": [
+      "https://a8971b77e12f46dcb00b860e3239f208-kdvx.vercel.app/screenshot.png",
+      "https://a8971b77e12f46dcb00b860e3239f208-kdvx.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://a8971b77e12f46dcb00b860e3239f208-kdvx.vercel.app/api/webhook"
+  }
+}
