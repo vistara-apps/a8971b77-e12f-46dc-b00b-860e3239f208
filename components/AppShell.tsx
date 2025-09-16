@@ -21,7 +21,7 @@ export function AppShell({ children, variant = 'default' }: AppShellProps) {
               </div>
               <span className="font-semibold text-lg">SkillBloom</span>
             </div>
-            <button className="p-2 hover:bg-gray-100 rounded-lg transition-colors duration-200">
+            <button className="p-2 hover:bg-gray-100 rounded-lg transition-colors duration-300">
               <User className="w-5 h-5" />
             </button>
           </div>
@@ -41,15 +41,15 @@ export function AppShell({ children, variant = 'default' }: AppShellProps) {
               <Home className="w-5 h-5 mb-1" />
               <span className="text-xs font-medium">Home</span>
             </button>
-            <button className="flex flex-col items-center py-2 px-3 text-gray-500 hover:text-primary transition-colors duration-200">
+            <button className="flex flex-col items-center py-2 px-3 text-gray-500 hover:text-primary transition-colors duration-300">
               <Search className="w-5 h-5 mb-1" />
               <span className="text-xs">Explore</span>
             </button>
-            <button className="flex flex-col items-center py-2 px-3 text-gray-500 hover:text-primary transition-colors duration-200">
+            <button className="flex flex-col items-center py-2 px-3 text-gray-500 hover:text-primary transition-colors duration-300">
               <Bell className="w-5 h-5 mb-1" />
               <span className="text-xs">Notifications</span>
             </button>
-            <button className="flex flex-col items-center py-2 px-3 text-gray-500 hover:text-primary transition-colors duration-200">
+            <button className="flex flex-col items-center py-2 px-3 text-gray-500 hover:text-primary transition-colors duration-300">
               <User className="w-5 h-5 mb-1" />
               <span className="text-xs">Profile</span>
             </button>
